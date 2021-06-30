@@ -5,9 +5,7 @@ You can find more about the data on the [data-description](winequality.names) fi
 
 The dataset and the notebook also uploaded at [Kaggle](https://www.kaggle.com/vatsalbajaj/wine-quality-prediction)
 
-Check more on the notebook [Github Notebook](wine-quality.ipynb) / [Web-nbviewer](to be added)
-or
-[Python Script](wine-quality.py)
+Check more on the notebook [Github Notebook](wine-quality.ipynb) / [Web-nbviewer](https://nbviewer.jupyter.org/github/bajajvatsal/wine-quality-prediction/blob/main/wine-quality.ipynb) or [Python Script](wine-quality.py)
 
 ## Problem
 
